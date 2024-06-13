@@ -1,7 +1,3 @@
-Certainly! Here's a README file you can use for your GitHub repository based on the provided information:
-
----
-
 # Music Recommender System
 
 ## Introduction
